@@ -1,4 +1,4 @@
-# Flutter APP - Generation of random colors
+# Flutter APP - APP CAT BREEDS
 
 This is a mobile application, which consumes an API and shows its answer (Cat Breeds) in cards, was implemented an initial screen as Splash, then a card screen with the breeds obtained, there we can do a search for the name of the breed and finally a screen to see some details of the specified cat.
 
